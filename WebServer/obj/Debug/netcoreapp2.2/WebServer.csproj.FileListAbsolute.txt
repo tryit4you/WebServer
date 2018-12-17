@@ -11,3 +11,4 @@ D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.AssemblyInfo.cs
 D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.RazorTargetAssemblyInfo.cache
 D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.dll
 D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.pdb
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.csprojAssemblyReference.cache
