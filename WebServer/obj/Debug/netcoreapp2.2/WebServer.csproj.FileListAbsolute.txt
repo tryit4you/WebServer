@@ -1,0 +1,13 @@
+D:\Demo\WebServer\WebServer\bin\Debug\netcoreapp2.2\WebServer.deps.json
+D:\Demo\WebServer\WebServer\bin\Debug\netcoreapp2.2\WebServer.runtimeconfig.json
+D:\Demo\WebServer\WebServer\bin\Debug\netcoreapp2.2\WebServer.runtimeconfig.dev.json
+D:\Demo\WebServer\WebServer\bin\Debug\netcoreapp2.2\WebServer.dll
+D:\Demo\WebServer\WebServer\bin\Debug\netcoreapp2.2\WebServer.pdb
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.csproj.CoreCompileInputs.cache
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.RazorAssemblyInfo.cache
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.RazorAssemblyInfo.cs
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.AssemblyInfoInputs.cache
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.AssemblyInfo.cs
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.RazorTargetAssemblyInfo.cache
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.dll
+D:\Demo\WebServer\WebServer\obj\Debug\netcoreapp2.2\WebServer.pdb
